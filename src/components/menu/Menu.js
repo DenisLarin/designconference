@@ -2,7 +2,7 @@ import React from 'react';
 import classes from './menu.module.scss'
 import Container from "../../HOC/Container";
 import Wrapper from "../../HOC/Wrapper";
-import Button from "../Button/Button";
+import Button from "../button/Button";
 
 function Menu(props) {
     return (
